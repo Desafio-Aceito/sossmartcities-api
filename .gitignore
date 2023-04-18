@@ -1,0 +1,10 @@
+# Arquivos gerados pelo Maven
+target/
+**/target/
+*.log
+*.jar
+*.war
+*.ear
+
+# Pasta do repositório local do Maven
+.m2/
